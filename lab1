@@ -1,14 +1,0 @@
-Script started on 2015年03月10日 (週二) 17時39分33秒
-]0;F74036394@2015cpp: ~F74036394@2015cpp:~$ whoami;pwd
-F74036394
-/home/F74036394
-]0;F74036394@2015cpp: ~F74036394@2015cpp:~$ git congi[K[Kfig -l
-]0;F74036394@2015cpp: ~F74036394@2015cpp:~$ got[K[K[Kgit clone e https://github.com/<your github account>/lab1.g it[A]0;F74036394@2015cpp: ~F74036394@2015cpp:~$ [C[C[C[C[Config -l[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pwhoami;pwdgit config -llone e https://github.com/<your github account>/lab1.giit[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cyour github account>/lab1.git[K[A]0;F74036394@2015cpp: ~F74036394@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cour github account>/lab1.git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P account>/lab1.git[1Paccount>/lab1.git[1Pccount>/lab1.git[C[1Pount>/lab1.git[1Pount>/lab1.git[1Punt>/lab1.git[1Pnt>/lab1.git[1Pt>/lab1.git[1P>/lab1.git[1P/lab1.gitc/lab1.gits/lab1.giti/lab1.gite/lab1.gits/lab1.gitt/lab1.gito/lab1.gitn/lab1.gite/lab1.git[C
-fatal: repository 'e' does not exist
-]0;F74036394@2015cpp: ~F74036394@2015cpp:~$ git clone e https://github.com/csiestone/lab1.git[1P https://github.com/csiestone/lab1.git
-fatal: destination path 'lab1' already exists and is not an empty directory.
-]0;F74036394@2015cpp: ~F74036394@2015cpp:~$ exit
-
-Script done on 2015年03月10日 (週二) 17時40分36秒
